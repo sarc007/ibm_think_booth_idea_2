@@ -1,9 +1,12 @@
 import os
-import sys
+import time
+
+import pygame
 
 import voice_recog
-import pygame
-import time
+
+test_var = 0
+print(test_var)
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
 GREEN = (0, 255, 0)
